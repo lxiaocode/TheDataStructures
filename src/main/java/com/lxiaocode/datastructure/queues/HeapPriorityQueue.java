@@ -1,4 +1,4 @@
-package com.lxiaocode.datastructure.queue;
+package com.lxiaocode.datastructure.queues;
 
 /**
  * 基于二叉堆实现的优先队列

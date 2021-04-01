@@ -1,6 +1,4 @@
-package com.lxiaocode.datastructure.queue;
-
-import java.util.ArrayList;
+package com.lxiaocode.datastructure.queues;
 
 /**
  * 基于数组实现的优先队列
